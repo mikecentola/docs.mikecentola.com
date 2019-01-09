@@ -1,6 +1,11 @@
 site_name: Mike Centola
-site author: Mike Centola
-site: /
+site_author: Mike Centola
+site_url: https://docs.mikecentola.com
+repo_url: https://github.com/mikecentola/mikecentola.github.io
+copyright: Copyright (c) 2019 Mike Centola
+remote_branch: master
+docs_dir: docs
+site_dir: ../docs
 nav:
   - Home: https://mikecentola.com
   - Tutorials:
