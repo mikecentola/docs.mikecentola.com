@@ -5,7 +5,7 @@ repo_url: https://github.com/mikecentola/mikecentola.github.io
 copyright: Copyright (c) 2019 Mike Centola
 remote_branch: master
 docs_dir: docs
-site_dir: ../docs
+site_dir: ../docs/
 nav:
   - Home: https://mikecentola.com
   - Tutorials:
