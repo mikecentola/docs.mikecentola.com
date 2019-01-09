@@ -1,0 +1,15 @@
+site_name: Mike Centola
+site author: Mike Centola
+site: /
+nav:
+  - Home: https://mikecentola.com
+  - Tutorials:
+    - Test Tutorial: 'tutorials/test.md'
+
+  - About: https://mikecentola.com/#about
+
+theme: 
+  name: 'material'
+  palette:
+    primary: 'grey'
+    accent: 'cyan'
