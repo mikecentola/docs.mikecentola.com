@@ -31,3 +31,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Built Docs
+docs/

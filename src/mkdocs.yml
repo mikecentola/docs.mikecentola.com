@@ -1,5 +1,5 @@
 # Project Information
-site_name: mikeCentola->docs();
+site_name: mikeCentola->docs()
 site_description: Tutorials and Documents by Mike Centola
 site_author: Mike Centola
 site_url: https://docs.mikecentola.com
@@ -10,7 +10,7 @@ edit_uri: ''
 remote_branch: master
 
 # Copyright
-copyright: 'Copyright &copy; 2019 Mike Centola'
+copyright: 'Copyright &copy; 2019 Mike Centola All Rights Reserved'
 
 # Configuration
 docs_dir: docs
@@ -37,15 +37,17 @@ plugins:
 # Theme Configuration
 theme: 
   name: 'material'
-  palette: 
+  palette:
     primary: 'teal'
-    accent: 'teal'
+    accent: 'cyan'
+  logo: 
+    icon: 'tag_faces'
   custom_dir: custom_theme/
 
 # Navigation
 nav:
 - Home: /
-- Tutorials:
+- Docs:
   - Test Tutorial: 'tutorials/test.md'
-
+- Blog: https://mikecentola.com/blog/
 - About: https://mikecentola.com/#about
